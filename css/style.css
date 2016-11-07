@@ -603,8 +603,6 @@
 /* Copyright */
 
 	#copyright {
-		color: #ddd;
-		color: rgba(255, 255, 255, 0.2) !important;
 		text-align: center;
 		display: block;
 		padding: 3em 0em;
@@ -612,8 +610,6 @@
 
 		#copyright a {
 			text-decoration: none;
-			color: #ddd;
-			color: rgba(255, 255, 255, 0.4) !important;
 		}
 
 /* Box */
