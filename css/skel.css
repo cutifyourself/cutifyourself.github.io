@@ -88,11 +88,6 @@
 		/* Normal */
 
 			.row > * {
-				/* padding-left: (gutters) */
-				padding-left: 40px;
-			}
-
-			.row + .row > * {
 				/* padding: (gutters) 0 0 (gutters) */
 				padding: 40px 0 0 40px;
 			}
